@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{636501A3-35B8-4FB9-B578-B8ADB33B66AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloNativeLibrary", "HelloNativeLibrary\HelloNativeLibrary.csproj", "{7C4DC26E-86C1-4246-8DF8-6632F885AF94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{636501A3-35B8-4FB9-B578-B8ADB33B66AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{636501A3-35B8-4FB9-B578-B8ADB33B66AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{636501A3-35B8-4FB9-B578-B8ADB33B66AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4DC26E-86C1-4246-8DF8-6632F885AF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4DC26E-86C1-4246-8DF8-6632F885AF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4DC26E-86C1-4246-8DF8-6632F885AF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4DC26E-86C1-4246-8DF8-6632F885AF94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
